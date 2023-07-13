@@ -9,7 +9,7 @@
 @Desc    :   None
 '''
 
-import os
+import os,sys
 import cv2
 import numpy as np
 from PIL import Image
@@ -17,9 +17,15 @@ import moviepy.editor as mp
 import random
 import datetime
 
-Image_Dir = 'C:\\Users\\A\\Pictures\\\image2video\\image'
-Video_Dir = 'C:\\Users\\A\\Pictures\\\image2video\\video'
-Audio_Dir = 'C:\\Users\\A\\Pictures\\\image2video\\bgm'
+sys.stdout.reconfigure(encoding='utf-8')
+
+# Image_Dir = 'C:\\Users\\A\\Pictures\\image2video\\image'
+# Video_Dir = 'C:\\Users\\A\\Pictures\\image2video\\video'
+# Audio_Dir = 'C:\\Users\\A\\Pictures\\image2video\\bgm'
+
+Image_Dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'image')
+Video_Dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'video')
+Audio_Dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'bgm')
 
 def video_add_bgm(video_input_file, audio_file_list, video_output_file):
     video_clip = mp.VideoFileClip(video_input_file)
@@ -80,14 +86,18 @@ def template_on_image(template_path, image_path):
 
 
 if __name__ == '__main__':
+    # 指定参数
+    print("##"*20 + f"now:{datetime.datetime.now()},start" + "##"*20)
     dt = str(datetime.date.today())
     image_dir = Image_Dir
     video_dir = Video_Dir
-    video_tag = '凉鞋'
-    # template_image_path = 'C:\\Users\\A\\Pictures\\image2video\\template\\0627-1.png'
+    video_tag = '素材'
+    
+    # 接受video tag参数
+    if len(sys.argv)>1:
+        video_tag = sys.argv[1]
     template_image_path = ''
     fps = 24
-    duration = 3
     size = (720, 1280)
 
     audio_file_list = load_audio_files()
@@ -121,7 +131,7 @@ if __name__ == '__main__':
         # 将图像转换为Numpy数组，并将其写入视频文件
         # img = cv2.cvtColor(np.array(output_image), cv2.COLOR_RGB2BGR) # 视频色彩会变化
         img = cv2.resize(output_image, size)
-        print(img.shape)
+        # print(img.shape)
 
         a=0
         while a < 48:
@@ -132,8 +142,4 @@ if __name__ == '__main__':
     print(video_name)
     video.release()
     os.remove(video_name)
-
-        
-    # 释放资源
-    # video.release()
-    # os.remove(video_name)
+    print("##"*20 + f"now:{datetime.datetime.now()},end" + "##"*20)

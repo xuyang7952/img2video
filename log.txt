@@ -1,0 +1,345 @@
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+C:\Users\A\Pictures\image2video\video\2023-07-12_凉鞋_1.mp4
+Moviepy - Building video C:\Users\A\Pictures\image2video\video\ai_2023-07-12_凉鞋_1.mp4.
+MoviePy - Writing audio in ai_2023-07-12_凉鞋_1TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\A\Pictures\image2video\video\ai_2023-07-12_凉鞋_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\A\Pictures\image2video\video\ai_2023-07-12_凉鞋_1.mp4
+C:\Users\A\Pictures\image2video\video\ai_2023-07-12_凉鞋_1.mp4
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+C:\Users\A\Pictures\image2video\video\2023-07-12_凉鞋_2.mp4
+Moviepy - Building video C:\Users\A\Pictures\image2video\video\ai_2023-07-12_凉鞋_2.mp4.
+MoviePy - Writing audio in ai_2023-07-12_凉鞋_2TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\A\Pictures\image2video\video\ai_2023-07-12_凉鞋_2.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\A\Pictures\image2video\video\ai_2023-07-12_凉鞋_2.mp4
+C:\Users\A\Pictures\image2video\video\ai_2023-07-12_凉鞋_2.mp4
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+C:\Users\A\Pictures\image2video\video\2023-07-12_凉鞋_3.mp4
+Moviepy - Building video C:\Users\A\Pictures\image2video\video\ai_2023-07-12_凉鞋_3.mp4.
+MoviePy - Writing audio in ai_2023-07-12_凉鞋_3TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\A\Pictures\image2video\video\ai_2023-07-12_凉鞋_3.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\A\Pictures\image2video\video\ai_2023-07-12_凉鞋_3.mp4
+C:\Users\A\Pictures\image2video\video\ai_2023-07-12_凉鞋_3.mp4
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+C:\Users\A\Pictures\image2video\video\2023-07-12_凉鞋_4.mp4
+Moviepy - Building video C:\Users\A\Pictures\image2video\video\ai_2023-07-12_凉鞋_4.mp4.
+MoviePy - Writing audio in ai_2023-07-12_凉鞋_4TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\A\Pictures\image2video\video\ai_2023-07-12_凉鞋_4.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\A\Pictures\image2video\video\ai_2023-07-12_凉鞋_4.mp4
+C:\Users\A\Pictures\image2video\video\ai_2023-07-12_凉鞋_4.mp4
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+C:\Users\A\Pictures\image2video\video\2023-07-12_凉鞋_5.mp4
+Moviepy - Building video C:\Users\A\Pictures\image2video\video\ai_2023-07-12_凉鞋_5.mp4.
+MoviePy - Writing audio in ai_2023-07-12_凉鞋_5TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\A\Pictures\image2video\video\ai_2023-07-12_凉鞋_5.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\A\Pictures\image2video\video\ai_2023-07-12_凉鞋_5.mp4
+C:\Users\A\Pictures\image2video\video\ai_2023-07-12_凉鞋_5.mp4
+(1280, 720, 3)
+(1280, 720, 3)
+C:\Users\A\Pictures\image2video\video\2023-07-12_凉鞋_6.mp4
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+C:\Users\A\Pictures\image2video\video\2023-07-13_liangxie_1.mp4
+Moviepy - Building video C:\Users\A\Pictures\image2video\video\ai_2023-07-13_liangxie_1.mp4.
+MoviePy - Writing audio in ai_2023-07-13_liangxie_1TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\A\Pictures\image2video\video\ai_2023-07-13_liangxie_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\A\Pictures\image2video\video\ai_2023-07-13_liangxie_1.mp4
+C:\Users\A\Pictures\image2video\video\ai_2023-07-13_liangxie_1.mp4
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+C:\Users\A\Pictures\image2video\video\2023-07-13_liangxie_2.mp4
+Moviepy - Building video C:\Users\A\Pictures\image2video\video\ai_2023-07-13_liangxie_2.mp4.
+MoviePy - Writing audio in ai_2023-07-13_liangxie_2TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\A\Pictures\image2video\video\ai_2023-07-13_liangxie_2.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\A\Pictures\image2video\video\ai_2023-07-13_liangxie_2.mp4
+C:\Users\A\Pictures\image2video\video\ai_2023-07-13_liangxie_2.mp4
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+C:\Users\A\Pictures\image2video\video\2023-07-13_liangxie_3.mp4
+Moviepy - Building video C:\Users\A\Pictures\image2video\video\ai_2023-07-13_liangxie_3.mp4.
+MoviePy - Writing audio in ai_2023-07-13_liangxie_3TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\A\Pictures\image2video\video\ai_2023-07-13_liangxie_3.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\A\Pictures\image2video\video\ai_2023-07-13_liangxie_3.mp4
+C:\Users\A\Pictures\image2video\video\ai_2023-07-13_liangxie_3.mp4
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+C:\Users\A\Pictures\image2video\video\2023-07-13_liangxie_4.mp4
+Moviepy - Building video C:\Users\A\Pictures\image2video\video\ai_2023-07-13_liangxie_4.mp4.
+MoviePy - Writing audio in ai_2023-07-13_liangxie_4TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\A\Pictures\image2video\video\ai_2023-07-13_liangxie_4.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\A\Pictures\image2video\video\ai_2023-07-13_liangxie_4.mp4
+C:\Users\A\Pictures\image2video\video\ai_2023-07-13_liangxie_4.mp4
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+C:\Users\A\Pictures\image2video\video\2023-07-13_liangxie_5.mp4
+Moviepy - Building video C:\Users\A\Pictures\image2video\video\ai_2023-07-13_liangxie_5.mp4.
+MoviePy - Writing audio in ai_2023-07-13_liangxie_5TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\A\Pictures\image2video\video\ai_2023-07-13_liangxie_5.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\A\Pictures\image2video\video\ai_2023-07-13_liangxie_5.mp4
+C:\Users\A\Pictures\image2video\video\ai_2023-07-13_liangxie_5.mp4
+(1280, 720, 3)
+(1280, 720, 3)
+C:\Users\A\Pictures\image2video\video\2023-07-13_liangxie_6.mp4
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+C:\Users\A\Documents\xuyang\img2video\video\2023-07-13_liangxiee_1.mp4
+Moviepy - Building video C:\Users\A\Documents\xuyang\img2video\video\ai_2023-07-13_liangxiee_1.mp4.
+MoviePy - Writing audio in ai_2023-07-13_liangxiee_1TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\A\Documents\xuyang\img2video\video\ai_2023-07-13_liangxiee_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\A\Documents\xuyang\img2video\video\ai_2023-07-13_liangxiee_1.mp4
+C:\Users\A\Documents\xuyang\img2video\video\ai_2023-07-13_liangxiee_1.mp4
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+C:\Users\A\Documents\xuyang\img2video\video\2023-07-13_liangxiee_2.mp4
+Moviepy - Building video C:\Users\A\Documents\xuyang\img2video\video\ai_2023-07-13_liangxiee_2.mp4.
+MoviePy - Writing audio in ai_2023-07-13_liangxiee_2TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\A\Documents\xuyang\img2video\video\ai_2023-07-13_liangxiee_2.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\A\Documents\xuyang\img2video\video\ai_2023-07-13_liangxiee_2.mp4
+C:\Users\A\Documents\xuyang\img2video\video\ai_2023-07-13_liangxiee_2.mp4
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+C:\Users\A\Documents\xuyang\img2video\video\2023-07-13_liangxiee_3.mp4
+Moviepy - Building video C:\Users\A\Documents\xuyang\img2video\video\ai_2023-07-13_liangxiee_3.mp4.
+MoviePy - Writing audio in ai_2023-07-13_liangxiee_3TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\A\Documents\xuyang\img2video\video\ai_2023-07-13_liangxiee_3.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\A\Documents\xuyang\img2video\video\ai_2023-07-13_liangxiee_3.mp4
+C:\Users\A\Documents\xuyang\img2video\video\ai_2023-07-13_liangxiee_3.mp4
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+C:\Users\A\Documents\xuyang\img2video\video\2023-07-13_liangxiee_4.mp4
+Moviepy - Building video C:\Users\A\Documents\xuyang\img2video\video\ai_2023-07-13_liangxiee_4.mp4.
+MoviePy - Writing audio in ai_2023-07-13_liangxiee_4TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\A\Documents\xuyang\img2video\video\ai_2023-07-13_liangxiee_4.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\A\Documents\xuyang\img2video\video\ai_2023-07-13_liangxiee_4.mp4
+C:\Users\A\Documents\xuyang\img2video\video\ai_2023-07-13_liangxiee_4.mp4
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+(1280, 720, 3)
+C:\Users\A\Documents\xuyang\img2video\video\2023-07-13_liangxiee_5.mp4
+Moviepy - Building video C:\Users\A\Documents\xuyang\img2video\video\ai_2023-07-13_liangxiee_5.mp4.
+MoviePy - Writing audio in ai_2023-07-13_liangxiee_5TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\A\Documents\xuyang\img2video\video\ai_2023-07-13_liangxiee_5.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\A\Documents\xuyang\img2video\video\ai_2023-07-13_liangxiee_5.mp4
+C:\Users\A\Documents\xuyang\img2video\video\ai_2023-07-13_liangxiee_5.mp4
+(1280, 720, 3)
+(1280, 720, 3)
+C:\Users\A\Documents\xuyang\img2video\video\2023-07-13_liangxiee_6.mp4
+########################################now:2023-07-13 15:11:48.252117,start########################################
+D:\soft\img2video\video\2023-07-13_凉鞋_1.mp4
+Moviepy - Building video D:\soft\img2video\video\ai_2023-07-13_凉鞋_1.mp4.
+MoviePy - Writing audio in ai_2023-07-13_凉鞋_1TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video D:\soft\img2video\video\ai_2023-07-13_凉鞋_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready D:\soft\img2video\video\ai_2023-07-13_凉鞋_1.mp4
+D:\soft\img2video\video\ai_2023-07-13_凉鞋_1.mp4
+D:\soft\img2video\video\2023-07-13_凉鞋_2.mp4
+Moviepy - Building video D:\soft\img2video\video\ai_2023-07-13_凉鞋_2.mp4.
+MoviePy - Writing audio in ai_2023-07-13_凉鞋_2TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video D:\soft\img2video\video\ai_2023-07-13_凉鞋_2.mp4
+
+Moviepy - Done !
+Moviepy - video ready D:\soft\img2video\video\ai_2023-07-13_凉鞋_2.mp4
+D:\soft\img2video\video\ai_2023-07-13_凉鞋_2.mp4
+D:\soft\img2video\video\2023-07-13_凉鞋_3.mp4
+Moviepy - Building video D:\soft\img2video\video\ai_2023-07-13_凉鞋_3.mp4.
+MoviePy - Writing audio in ai_2023-07-13_凉鞋_3TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video D:\soft\img2video\video\ai_2023-07-13_凉鞋_3.mp4
+
+Moviepy - Done !
+Moviepy - video ready D:\soft\img2video\video\ai_2023-07-13_凉鞋_3.mp4
+D:\soft\img2video\video\ai_2023-07-13_凉鞋_3.mp4
+D:\soft\img2video\video\2023-07-13_凉鞋_4.mp4
+Moviepy - Building video D:\soft\img2video\video\ai_2023-07-13_凉鞋_4.mp4.
+MoviePy - Writing audio in ai_2023-07-13_凉鞋_4TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video D:\soft\img2video\video\ai_2023-07-13_凉鞋_4.mp4
+
+Moviepy - Done !
+Moviepy - video ready D:\soft\img2video\video\ai_2023-07-13_凉鞋_4.mp4
+D:\soft\img2video\video\ai_2023-07-13_凉鞋_4.mp4
+D:\soft\img2video\video\2023-07-13_凉鞋_5.mp4
+Moviepy - Building video D:\soft\img2video\video\ai_2023-07-13_凉鞋_5.mp4.
+MoviePy - Writing audio in ai_2023-07-13_凉鞋_5TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video D:\soft\img2video\video\ai_2023-07-13_凉鞋_5.mp4
+
+Moviepy - Done !
+Moviepy - video ready D:\soft\img2video\video\ai_2023-07-13_凉鞋_5.mp4
+D:\soft\img2video\video\ai_2023-07-13_凉鞋_5.mp4
+D:\soft\img2video\video\2023-07-13_凉鞋_6.mp4
+########################################now:2023-07-13 15:12:15.572351,end########################################
+########################################now:2023-07-13 15:19:20.302116,start########################################
+D:\soft\img2video\video\2023-07-13_凉鞋_1.mp4
+Moviepy - Building video D:\soft\img2video\video\ai_2023-07-13_凉鞋_1.mp4.
+MoviePy - Writing audio in ai_2023-07-13_凉鞋_1TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video D:\soft\img2video\video\ai_2023-07-13_凉鞋_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready D:\soft\img2video\video\ai_2023-07-13_凉鞋_1.mp4
+D:\soft\img2video\video\ai_2023-07-13_凉鞋_1.mp4
+D:\soft\img2video\video\2023-07-13_凉鞋_2.mp4
+Moviepy - Building video D:\soft\img2video\video\ai_2023-07-13_凉鞋_2.mp4.
+MoviePy - Writing audio in ai_2023-07-13_凉鞋_2TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video D:\soft\img2video\video\ai_2023-07-13_凉鞋_2.mp4
+
+Moviepy - Done !
+Moviepy - video ready D:\soft\img2video\video\ai_2023-07-13_凉鞋_2.mp4
+D:\soft\img2video\video\ai_2023-07-13_凉鞋_2.mp4
+D:\soft\img2video\video\2023-07-13_凉鞋_3.mp4
+Moviepy - Building video D:\soft\img2video\video\ai_2023-07-13_凉鞋_3.mp4.
+MoviePy - Writing audio in ai_2023-07-13_凉鞋_3TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video D:\soft\img2video\video\ai_2023-07-13_凉鞋_3.mp4
+
+Moviepy - Done !
+Moviepy - video ready D:\soft\img2video\video\ai_2023-07-13_凉鞋_3.mp4
+D:\soft\img2video\video\ai_2023-07-13_凉鞋_3.mp4
+D:\soft\img2video\video\2023-07-13_凉鞋_4.mp4
+Moviepy - Building video D:\soft\img2video\video\ai_2023-07-13_凉鞋_4.mp4.
+MoviePy - Writing audio in ai_2023-07-13_凉鞋_4TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video D:\soft\img2video\video\ai_2023-07-13_凉鞋_4.mp4
+
+Moviepy - Done !
+Moviepy - video ready D:\soft\img2video\video\ai_2023-07-13_凉鞋_4.mp4
+D:\soft\img2video\video\ai_2023-07-13_凉鞋_4.mp4
+D:\soft\img2video\video\2023-07-13_凉鞋_5.mp4
+Moviepy - Building video D:\soft\img2video\video\ai_2023-07-13_凉鞋_5.mp4.
+MoviePy - Writing audio in ai_2023-07-13_凉鞋_5TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video D:\soft\img2video\video\ai_2023-07-13_凉鞋_5.mp4
+
+Moviepy - Done !
+Moviepy - video ready D:\soft\img2video\video\ai_2023-07-13_凉鞋_5.mp4
+D:\soft\img2video\video\ai_2023-07-13_凉鞋_5.mp4
+D:\soft\img2video\video\2023-07-13_凉鞋_6.mp4
+########################################now:2023-07-13 15:19:47.985447,end########################################
