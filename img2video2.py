@@ -9,23 +9,26 @@
 @Desc    :   None
 '''
 
-import os,sys
+import os
+import sys
+import multiprocessing
 import cv2
 import numpy as np
 from PIL import Image
 import moviepy.editor as mp
 import random
-import datetime
+from datetime import datetime, date
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-# Image_Dir = 'C:\\Users\\A\\Pictures\\image2video\\image'
-# Video_Dir = 'C:\\Users\\A\\Pictures\\image2video\\video'
-# Audio_Dir = 'C:\\Users\\A\\Pictures\\image2video\\bgm'
+IMAGE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'image')
+VIDEO_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'video')
+BGM_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'bgm')
+FPS = 24
+SIZE = (720, 1280)
+CHUNK_SIZE = 7
+POOL_SIZE = 6
 
-Image_Dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'image')
-Video_Dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'video')
-Audio_Dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'bgm')
 
 def video_add_bgm(video_input_file, audio_file_list, video_output_file):
     video_clip = mp.VideoFileClip(video_input_file)
@@ -49,11 +52,11 @@ def video_add_bgm(video_input_file, audio_file_list, video_output_file):
     final_clip.write_videofile(video_output_file, fps=24, codec='libx264')
     print(video_output_file)
 
+
 def load_audio_files():
     # 加载所有音频文件
-    audio_dir = Audio_Dir
     audio_file_list = []
-    for root ,dirs, files in os.walk(audio_dir):
+    for root, dirs, files in os.walk(BGM_DIR):
         for file in files:
             if '.mp3' not in file:
                 continue
@@ -77,69 +80,79 @@ def template_on_image(template_path, image_path):
     output_image = Image.alpha_composite(output_image, origin_image)
     output_image = Image.alpha_composite(output_image, template_image)
 
-    # output_image = output_image.convert('RGB')
-
     # 保存结果图片
     # output_image.save('C:\\Users\\A\\Pictures\\\image2video\\image\\out.jpg')
     # image = cv2.imread('C:\\Users\\A\\Pictures\\\image2video\\image\\out.jpg')
     return output_image
 
 
-if __name__ == '__main__':
-    # 指定参数
-    print("##"*20 + f"now:{datetime.datetime.now()},start" + "##"*20)
-    dt = str(datetime.date.today())
-    image_dir = Image_Dir
-    video_dir = Video_Dir
-    video_tag = '素材'
-    
-    # 接受video tag参数
-    if len(sys.argv)>1:
-        video_tag = sys.argv[1]
-    template_image_path = ''
-    fps = 24
-    size = (720, 1280)
+def create_video(images, video_name):
+    print("##" * 5 + f"now:{datetime.now()},video_name:{video_name}")
 
     audio_file_list = load_audio_files()
-    image_files = os.listdir(image_dir)
 
-    video_index = 1
-    video_name = os.path.join(video_dir, f'{dt}_{video_tag}_{video_index}.mp4')
-    video = cv2.VideoWriter(video_name,cv2.VideoWriter_fourcc(*'mp4v'),fps,(720,1280))
-    for i in range(len(image_files)):
+    # 创建一个视频写入器
+    video_path = os.path.join(VIDEO_DIR, video_name)
+    video = cv2.VideoWriter(video_path, cv2.VideoWriter_fourcc(*'mp4v'), FPS,
+                            SIZE)
 
-        file_name = os.path.join(image_dir, image_files[i])
-        if i % 7 == 0 and i > 0:
-            print(video_name)
-            video.release()
-
-            video_output_name = os.path.join(video_dir, f'ai_{dt}_{video_tag}_{video_index}.mp4')
-            video_add_bgm(video_name, audio_file_list, video_output_name)
-            os.remove(video_name)
-
-            video_index += 1
-            video_name = os.path.join(video_dir, f'{dt}_{video_tag}_{video_index}.mp4')
-            video = cv2.VideoWriter(video_name,cv2.VideoWriter_fourcc(*'mp4v'),fps,(720,1280))
-
-
-        # img = cv2.imread(file_name) #读取图片 叠加模板图片
-        # combined_image = template_on_image(file_name,template_image_path)
-        if template_image_path !='':
-            output_image = template_on_image(template_image_path,file_name,)
-        else:
-            output_image = cv2.imdecode(np.fromfile(file_name,dtype=np.uint8),-1)
-        # 将图像转换为Numpy数组，并将其写入视频文件
-        # img = cv2.cvtColor(np.array(output_image), cv2.COLOR_RGB2BGR) # 视频色彩会变化
-        img = cv2.resize(output_image, size)
-        # print(img.shape)
-
-        a=0
+    # 逐帧将图片写入视频
+    for image_path in images:
+        img = cv2.imdecode(np.fromfile(image_path, dtype=np.uint8), -1)
+        a = 0
         while a < 48:
-            img = cv2.resize(img, (720, 1280))
+            img = cv2.resize(img, SIZE)
             video.write(img)
-            a+=1
-    
-    print(video_name)
+            a += 1
+    # 释放视频写入器和窗口资源,
     video.release()
-    os.remove(video_name)
-    print("##"*20 + f"now:{datetime.datetime.now()},end" + "##"*20)
+    # 添加bgm
+    new_video_path = os.path.join(VIDEO_DIR, 'AI_' + video_name)
+    try:
+        video_add_bgm(video_path, audio_file_list, new_video_path)
+    except Exception as e:
+        print("##" * 5 + f"now:{datetime.now()},Exception:{e}")
+    # 删除未添加bgm视频
+    os.remove(video_path)
+
+
+if __name__ == '__main__':
+    # 指定参数
+    start_time = datetime.now()
+    print("##" * 20 + f"now:{start_time},start" + "##" * 20)
+    dt = str(date.today())
+    video_tag = '素材'
+
+    # 接受video tag参数
+    if len(sys.argv) > 1:
+        video_tag = sys.argv[1]
+    # template_image_path = ''
+
+    images = sorted([
+        os.path.join(IMAGE_DIR, f) for f in os.listdir(IMAGE_DIR)
+        if f.endswith('.jpg') or f.endswith('.png')
+    ])
+
+    # 按照每7张图片一组的方式将图片分组，并且排除最后不足7张图片的组
+
+    chunks = [
+        images[i:i + CHUNK_SIZE] for i in range(0, len(images), CHUNK_SIZE)
+    ]
+    if len(chunks[-1]) != CHUNK_SIZE:
+        chunks.pop()
+
+    # 使用进程池创建6个进程，并异步地对每组图片调用create_video函数处理成一个视频文件
+    pool = multiprocessing.Pool(processes=POOL_SIZE)
+    for i, chunk in enumerate(chunks):
+        try:
+            video_name = f'{dt}_{video_tag}_{i+1}.mp4'
+            pool.apply_async(create_video, args=(chunk, video_name))
+        except Exception as e:
+            print("##" * 5 + f"now:{datetime.now()},Exception:{e}")
+    pool.close()
+    pool.join()
+
+    # end
+    end_time = datetime.now()
+    print("##" * 20 + f"now:{end_time},end" + "##" * 20)
+    print("##" * 20 + f"duration:{end_time-start_time},end" + "##" * 20)
