@@ -101,7 +101,6 @@ def create_video(images, video_name):
         img = cv2.imdecode(np.fromfile(image_path, dtype=np.uint8), -1)
         a = 0
         while a < 48:
-            img = cv2.resize(img, SIZE)
             video.write(img)
             a += 1
     # 释放视频写入器和窗口资源,
@@ -140,6 +139,8 @@ if __name__ == '__main__':
     ]
     if len(chunks[-1]) != CHUNK_SIZE:
         chunks.pop()
+    # 预计生成多少个视频
+    print("##" * 5 + f"now:{datetime.now()},视频数量:{len(chunks)}")
 
     # 使用进程池创建6个进程，并异步地对每组图片调用create_video函数处理成一个视频文件
     pool = multiprocessing.Pool(processes=POOL_SIZE)

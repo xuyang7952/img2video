@@ -1,3 +1,10 @@
 bgm/*
 image/*
 video/*
+video_input/*
+video_output/*
+test.log
+str_json.py
+log.txt
+log.txt
+.vscode/settings.json
