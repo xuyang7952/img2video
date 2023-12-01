@@ -18,7 +18,7 @@ VIDEO_OUTPUT = os.path.join(os.path.dirname(
 POOL_SIZE = 6
 
 
-def add_intro_video_with_moviepy(folder_path, intro_video_path, output_folder):
+def add_intro_video_with_moviepy(folder_path, intro_video_path, output_folder, head_tail_tag):
     # 获取文件夹中的所有视频文件
     video_files = [f for f in os.listdir(folder_path) if f.endswith('.mp4')]
     logging.info(f"##" * 5 + f"now:{datetime.now()},视频数量:{len(video_files)}")
@@ -36,7 +36,10 @@ def add_intro_video_with_moviepy(folder_path, intro_video_path, output_folder):
             video_clip = VideoFileClip(input_file)
 
             # 将指定的2秒视频与原始视频进行合并
-            final_clip = concatenate_videoclips([video_clip, intro_clip])
+            if head_tail_tag == '1':
+                final_clip = concatenate_videoclips([video_clip, intro_clip])
+            else:
+                final_clip = concatenate_videoclips([intro_clip, video_clip])
 
             # 保存合并后的视频
             final_clip.write_videofile(output_file)
@@ -49,11 +52,13 @@ if __name__ == '__main__':
     # 指定参数
     start_time = datetime.now()
     dt = str(date.today())
+    head_tail_tag = '1'
     video_tag = '1'
 
-    # 接受video tag参数
+    # 接受video tag参数,    # 传入参数为空时
     if len(sys.argv) > 1:
         video_tag = sys.argv[1]
+        head_tail_tag = sys.argv[1]
 
     # 指定的2秒尾部视频路径
     intro_video_path = os.path.join(VIDEO_FINAL, video_tag+'.mp4')
@@ -62,7 +67,7 @@ if __name__ == '__main__':
     # # 调用函数进行视频处理
     try:
         add_intro_video_with_moviepy(
-            VIDEO_INPUT, intro_video_path, VIDEO_OUTPUT)
+            VIDEO_INPUT, intro_video_path, VIDEO_OUTPUT, head_tail_tag)
     except Exception as e:
         logging.info(f"添加尾部视频失败：{e}")
 

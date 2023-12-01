@@ -25,7 +25,6 @@ IMAGE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'image')
 VIDEO_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'video')
 BGM_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'bgm')
 FPS = 24
-SIZE = (720, 1280)
 CHUNK_SIZE = 7
 POOL_SIZE = 6
 
@@ -90,11 +89,15 @@ def create_video(images, video_name):
     print("##" * 5 + f"now:{datetime.now()},video_name:{video_name}")
 
     audio_file_list = load_audio_files()
+    # 得到images路径中的第一个图片宽高尺寸
+    for image_path in images:
+        img = Image.open(image_path)
+        img_size = img.size
+        break
 
     # 创建一个视频写入器
     video_path = os.path.join(VIDEO_DIR, video_name)
-    video = cv2.VideoWriter(video_path, cv2.VideoWriter_fourcc(*'mp4v'), FPS,
-                            SIZE)
+    video = cv2.VideoWriter(video_path, cv2.VideoWriter_fourcc(*'mp4v'), FPS, img_size)
 
     # 逐帧将图片写入视频
     for image_path in images:

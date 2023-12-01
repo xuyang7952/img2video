@@ -343,3 +343,317 @@ Moviepy - video ready D:\soft\img2video\video\ai_2023-07-13_ÂáâÈûã_5.mp4
 D:\soft\img2video\video\ai_2023-07-13_ÂáâÈûã_5.mp4
 D:\soft\img2video\video\2023-07-13_ÂáâÈûã_6.mp4
 ########################################now:2023-07-13 15:19:47.985447,end########################################
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_1TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_2TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_3.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_3TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_3.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_3.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_4.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_4TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_4.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_4.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_5.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_5TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_5.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_5.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_1TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_2TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_3.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_3TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_3.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_3.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_4.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_4TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_4.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_4.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_5.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_5TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_5.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_5.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_1TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_2TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_3.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_3TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_3.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_3.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_4.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_4TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_4.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_4.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_5.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_5TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_5.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_5.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_1TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_2TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_3.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_3TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_3.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_3.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_4.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_4TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_4.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_4.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_5.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_5TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_5.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_5.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_1TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_2TEMP_MPY_wvf_snd.mp3
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_1TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_2TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_3.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_3TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_3.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_3.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_4.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_4TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_4.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_4.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_5.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_5TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_5.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_5.mp4
+2023-09-07 14:07:31,361 - INFO - ******************************,start,******************************
+2023-09-07 14:07:31,361 - INFO - Œ≤≤ø ”∆µµÿ÷∑£∫C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_final\1.mp4
+2023-09-07 14:07:31,375 - INFO - ##########now:2023-09-07 14:07:31.375608, ”∆µ ˝¡ø:5
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_1TEMP_MPY_wvf_snd.mp3
+chunk:   0%|          | 0/361 [00:00<?, ?it/s, now=None]chunk:   8%|®Ç         | 28/361 [00:00<00:01, 227.82it/s, now=None]chunk:  37%|®Ä®Ä®Ä®É      | 135/361 [00:00<00:00, 679.21it/s, now=None]chunk:  65%|®Ä®Ä®Ä®Ä®Ä®Ä®Ö   | 233/361 [00:00<00:00, 807.64it/s, now=None]chunk:  98%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ç| 353/361 [00:00<00:00, 954.88it/s, now=None]                                                                   MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4
+
+t:   0%|          | 0/409 [00:00<?, ?it/s, now=None]t:   0%|          | 2/409 [00:00<00:34, 11.82it/s, now=None]t:   4%|®Ö         | 18/409 [00:00<00:05, 77.67it/s, now=None]t:   8%|®Ç         | 34/409 [00:00<00:03, 107.94it/s, now=None]t:  12%|®Ä®á        | 50/409 [00:00<00:02, 125.72it/s, now=None]t:  16%|®Ä®Ñ        | 64/409 [00:00<00:02, 124.84it/s, now=None]t:  19%|®Ä®Å        | 78/409 [00:00<00:02, 126.02it/s, now=None]t:  22%|®Ä®Ä®á       | 92/409 [00:00<00:02, 116.83it/s, now=None]t:  26%|®Ä®Ä®Ñ       | 105/409 [00:00<00:02, 110.90it/s, now=None]t:  29%|®Ä®Ä®Ç       | 117/409 [00:01<00:02, 105.96it/s, now=None]t:  31%|®Ä®Ä®Ä®á      | 128/409 [00:01<00:02, 103.76it/s, now=None]t:  34%|®Ä®Ä®Ä®Ö      | 139/409 [00:01<00:03, 73.65it/s, now=None] t:  37%|®Ä®Ä®Ä®É      | 150/409 [00:01<00:03, 80.11it/s, now=None]t:  39%|®Ä®Ä®Ä®Å      | 161/409 [00:01<00:02, 86.27it/s, now=None]t:  42%|®Ä®Ä®Ä®Ä®á     | 172/409 [00:01<00:02, 90.98it/s, now=None]t:  44%|®Ä®Ä®Ä®Ä®Ö     | 182/409 [00:01<00:02, 83.09it/s, now=None]t:  47%|®Ä®Ä®Ä®Ä®É     | 193/409 [00:02<00:02, 89.29it/s, now=None]t:  50%|®Ä®Ä®Ä®Ä®Ä     | 205/409 [00:02<00:02, 95.70it/s, now=None]t:  53%|®Ä®Ä®Ä®Ä®Ä®Ü    | 217/409 [00:02<00:01, 100.80it/s, now=None]t:  56%|®Ä®Ä®Ä®Ä®Ä®É    | 231/409 [00:02<00:01, 109.03it/s, now=None]t:  60%|®Ä®Ä®Ä®Ä®Ä®Å    | 244/409 [00:02<00:01, 113.14it/s, now=None]t:  63%|®Ä®Ä®Ä®Ä®Ä®Ä®Ü   | 257/409 [00:02<00:01, 116.42it/s, now=None]t:  66%|®Ä®Ä®Ä®Ä®Ä®Ä®Ñ   | 269/409 [00:02<00:01, 116.05it/s, now=None]t:  69%|®Ä®Ä®Ä®Ä®Ä®Ä®Ç   | 281/409 [00:02<00:01, 116.21it/s, now=None]t:  72%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®á  | 293/409 [00:02<00:01, 112.21it/s, now=None]t:  75%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ö  | 306/409 [00:02<00:00, 116.28it/s, now=None]t:  78%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ç  | 318/409 [00:03<00:00, 115.97it/s, now=None]t:  81%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä  | 330/409 [00:03<00:00, 110.64it/s, now=None]t:  84%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ü | 342/409 [00:03<00:00, 112.03it/s, now=None]2023-09-07 14:07:36,599 - WARNING - C:\Users\yangxu\miniconda3\envs\img2video\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_input\AI_2023-07-14_Àÿ≤ƒ_1.mp4, 2764800 bytes wanted but 0 bytes read,at frame 336/337, at time 14.00/14.03 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+t:  87%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®É | 354/409 [00:03<00:00, 113.29it/s, now=None]t:  89%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Å | 366/409 [00:03<00:00, 112.36it/s, now=None]t:  93%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ü| 380/409 [00:03<00:00, 117.99it/s, now=None]t:  96%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ñ| 393/409 [00:03<00:00, 118.95it/s, now=None]t: 100%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Å| 407/409 [00:03<00:00, 122.99it/s, now=None]2023-09-07 14:07:37,072 - WARNING - C:\Users\yangxu\miniconda3\envs\img2video\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_final\1.mp4, 2764800 bytes wanted but 0 bytes read,at frame 57/59, at time 2.28/2.33 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+                                                               Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_2TEMP_MPY_wvf_snd.mp3
+chunk:   0%|          | 0/361 [00:00<?, ?it/s, now=None]chunk:   3%|®Ü         | 10/361 [00:00<00:03, 99.94it/s, now=None]chunk:  25%|®Ä®Ä®Ñ       | 92/361 [00:00<00:00, 521.96it/s, now=None]chunk:  48%|®Ä®Ä®Ä®Ä®Ç     | 172/361 [00:00<00:00, 645.91it/s, now=None]chunk:  68%|®Ä®Ä®Ä®Ä®Ä®Ä®Ç   | 244/361 [00:00<00:00, 672.27it/s, now=None]chunk:  86%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®É | 312/361 [00:00<00:00, 317.10it/s, now=None]                                                                   MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4
+
+t:   0%|          | 0/409 [00:00<?, ?it/s, now=None]t:   0%|          | 2/409 [00:00<00:33, 12.00it/s, now=None]t:   3%|®Ü         | 12/409 [00:00<00:07, 52.28it/s, now=None]t:   6%|®Ñ         | 24/409 [00:00<00:04, 78.60it/s, now=None]t:   9%|®Å         | 36/409 [00:00<00:04, 90.79it/s, now=None]t:  11%|®Ä®á        | 47/409 [00:00<00:03, 95.33it/s, now=None]t:  15%|®Ä®Ö        | 60/409 [00:00<00:03, 104.40it/s, now=None]t:  17%|®Ä®É        | 71/409 [00:00<00:03, 102.84it/s, now=None]t:  20%|®Ä®Ä        | 82/409 [00:00<00:03, 102.80it/s, now=None]t:  23%|®Ä®Ä®Ü       | 93/409 [00:01<00:03, 100.71it/s, now=None]t:  25%|®Ä®Ä®Ñ       | 104/409 [00:01<00:02, 102.88it/s, now=None]t:  28%|®Ä®Ä®Ç       | 115/409 [00:01<00:02, 101.96it/s, now=None]t:  31%|®Ä®Ä®Ä       | 126/409 [00:01<00:02, 102.98it/s, now=None]t:  34%|®Ä®Ä®Ä®Ü      | 138/409 [00:01<00:02, 105.42it/s, now=None]t:  36%|®Ä®Ä®Ä®É      | 149/409 [00:01<00:02, 105.65it/s, now=None]t:  39%|®Ä®Ä®Ä®Å      | 161/409 [00:01<00:02, 109.02it/s, now=None]t:  42%|®Ä®Ä®Ä®Ä®á     | 172/409 [00:01<00:02, 106.73it/s, now=None]t:  45%|®Ä®Ä®Ä®Ä®Ö     | 183/409 [00:01<00:02, 106.87it/s, now=None]t:  47%|®Ä®Ä®Ä®Ä®É     | 194/409 [00:01<00:02, 104.01it/s, now=None]t:  50%|®Ä®Ä®Ä®Ä®Ä     | 205/409 [00:02<00:01, 104.44it/s, now=None]t:  53%|®Ä®Ä®Ä®Ä®Ä®Ü    | 216/409 [00:02<00:01, 104.34it/s, now=None]t:  56%|®Ä®Ä®Ä®Ä®Ä®Ñ    | 227/409 [00:02<00:01, 103.37it/s, now=None]t:  58%|®Ä®Ä®Ä®Ä®Ä®Ç    | 238/409 [00:02<00:01, 99.95it/s, now=None] t:  61%|®Ä®Ä®Ä®Ä®Ä®Ä    | 249/409 [00:02<00:01, 100.46it/s, now=None]t:  64%|®Ä®Ä®Ä®Ä®Ä®Ä®Ö   | 261/409 [00:02<00:01, 105.74it/s, now=None]t:  67%|®Ä®Ä®Ä®Ä®Ä®Ä®É   | 273/409 [00:02<00:01, 108.61it/s, now=None]t:  69%|®Ä®Ä®Ä®Ä®Ä®Ä®Å   | 284/409 [00:02<00:01, 108.41it/s, now=None]t:  72%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®á  | 295/409 [00:02<00:01, 105.12it/s, now=None]t:  75%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ö  | 306/409 [00:03<00:00, 105.55it/s, now=None]t:  78%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ç  | 317/409 [00:03<00:00, 103.21it/s, now=None]t:  80%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä  | 328/409 [00:03<00:00, 103.38it/s, now=None]t:  83%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ü | 339/409 [00:03<00:00, 101.40it/s, now=None]t:  86%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ñ | 351/409 [00:03<00:00, 104.30it/s, now=None]2023-09-07 14:07:42,376 - WARNING - C:\Users\yangxu\miniconda3\envs\img2video\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_input\AI_2023-07-14_Àÿ≤ƒ_2.mp4, 2764800 bytes wanted but 0 bytes read,at frame 336/337, at time 14.00/14.03 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+t:  89%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ç | 362/409 [00:03<00:00, 66.98it/s, now=None] t:  91%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä | 372/409 [00:03<00:00, 72.23it/s, now=None]t:  93%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ü| 381/409 [00:04<00:00, 74.79it/s, now=None]t:  96%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ñ| 391/409 [00:04<00:00, 80.74it/s, now=None]t:  98%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ç| 402/409 [00:04<00:00, 87.94it/s, now=None]                                                              Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_3.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_3TEMP_MPY_wvf_snd.mp3
+chunk:   0%|          | 0/361 [00:00<?, ?it/s, now=None]chunk:   1%|          | 2/361 [00:00<00:25, 13.92it/s, now=None]chunk:  21%|®Ä®Ä        | 75/361 [00:00<00:00, 370.07it/s, now=None]chunk:  40%|®Ä®Ä®Ä®Ä      | 145/361 [00:00<00:00, 503.24it/s, now=None]chunk:  55%|®Ä®Ä®Ä®Ä®Ä®Ñ    | 200/361 [00:00<00:00, 515.49it/s, now=None]chunk:  74%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ü  | 266/361 [00:00<00:00, 563.79it/s, now=None]chunk:  90%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä | 325/361 [00:00<00:00, 318.74it/s, now=None]                                                                   MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_3.mp4
+
+t:   0%|          | 0/409 [00:00<?, ?it/s, now=None]t:   0%|          | 2/409 [00:00<00:25, 16.04it/s, now=None]t:   3%|®Ü         | 13/409 [00:00<00:05, 66.08it/s, now=None]t:   6%|®Ñ         | 24/409 [00:00<00:04, 84.28it/s, now=None]t:   8%|®Ç         | 34/409 [00:00<00:04, 88.96it/s, now=None]t:  11%|®Ä         | 44/409 [00:00<00:04, 88.92it/s, now=None]t:  13%|®Ä®Ü        | 55/409 [00:00<00:03, 94.95it/s, now=None]t:  16%|®Ä®Ñ        | 65/409 [00:00<00:03, 96.05it/s, now=None]t:  18%|®Ä®Ç        | 75/409 [00:00<00:03, 94.59it/s, now=None]t:  21%|®Ä®Ä        | 85/409 [00:00<00:03, 91.18it/s, now=None]t:  23%|®Ä®Ä®Ü       | 95/409 [00:01<00:03, 91.60it/s, now=None]t:  26%|®Ä®Ä®Ñ       | 105/409 [00:01<00:03, 93.68it/s, now=None]t:  28%|®Ä®Ä®Ç       | 115/409 [00:01<00:03, 94.18it/s, now=None]t:  31%|®Ä®Ä®Ä       | 125/409 [00:01<00:03, 90.57it/s, now=None]t:  33%|®Ä®Ä®Ä®Ü      | 135/409 [00:01<00:03, 89.38it/s, now=None]t:  35%|®Ä®Ä®Ä®Ñ      | 144/409 [00:01<00:03, 85.21it/s, now=None]t:  37%|®Ä®Ä®Ä®É      | 153/409 [00:01<00:03, 82.13it/s, now=None]t:  40%|®Ä®Ä®Ä®Å      | 162/409 [00:01<00:03, 79.39it/s, now=None]t:  42%|®Ä®Ä®Ä®Ä®á     | 171/409 [00:01<00:02, 80.90it/s, now=None]t:  44%|®Ä®Ä®Ä®Ä®Ö     | 181/409 [00:02<00:02, 83.95it/s, now=None]t:  47%|®Ä®Ä®Ä®Ä®É     | 191/409 [00:02<00:02, 87.26it/s, now=None]t:  49%|®Ä®Ä®Ä®Ä®Å     | 201/409 [00:02<00:02, 89.90it/s, now=None]t:  52%|®Ä®Ä®Ä®Ä®Ä®á    | 211/409 [00:02<00:02, 92.21it/s, now=None]t:  54%|®Ä®Ä®Ä®Ä®Ä®Ö    | 221/409 [00:02<00:02, 92.75it/s, now=None]t:  57%|®Ä®Ä®Ä®Ä®Ä®É    | 232/409 [00:02<00:01, 95.09it/s, now=None]t:  59%|®Ä®Ä®Ä®Ä®Ä®Å    | 242/409 [00:02<00:01, 94.23it/s, now=None]t:  62%|®Ä®Ä®Ä®Ä®Ä®Ä®á   | 252/409 [00:02<00:01, 94.72it/s, now=None]t:  64%|®Ä®Ä®Ä®Ä®Ä®Ä®Ö   | 262/409 [00:02<00:01, 96.21it/s, now=None]t:  67%|®Ä®Ä®Ä®Ä®Ä®Ä®É   | 272/409 [00:03<00:01, 92.28it/s, now=None]t:  69%|®Ä®Ä®Ä®Ä®Ä®Ä®Å   | 282/409 [00:03<00:01, 93.56it/s, now=None]t:  72%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®á  | 293/409 [00:03<00:01, 96.27it/s, now=None]t:  74%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ö  | 304/409 [00:03<00:01, 97.44it/s, now=None]t:  77%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®É  | 314/409 [00:03<00:01, 94.51it/s, now=None]t:  79%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Å  | 324/409 [00:03<00:00, 95.95it/s, now=None]t:  82%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®á | 334/409 [00:03<00:00, 96.89it/s, now=None]t:  84%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ö | 345/409 [00:03<00:00, 97.85it/s, now=None]2023-09-07 14:07:49,001 - WARNING - C:\Users\yangxu\miniconda3\envs\img2video\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_input\AI_2023-07-14_Àÿ≤ƒ_3.mp4, 2764800 bytes wanted but 0 bytes read,at frame 336/337, at time 14.00/14.03 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+t:  87%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®É | 355/409 [00:04<00:00, 67.18it/s, now=None]t:  89%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Å | 365/409 [00:04<00:00, 73.75it/s, now=None]t:  92%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®á| 376/409 [00:04<00:00, 80.74it/s, now=None]t:  95%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ö| 387/409 [00:04<00:00, 87.47it/s, now=None]t:  97%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®É| 398/409 [00:04<00:00, 91.41it/s, now=None]t: 100%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä| 409/409 [00:04<00:00, 94.79it/s, now=None]                                                              Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_3.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_4.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_4TEMP_MPY_wvf_snd.mp3
+chunk:   0%|          | 0/361 [00:00<?, ?it/s, now=None]chunk:   8%|®Ç         | 28/361 [00:00<00:01, 223.35it/s, now=None]chunk:  33%|®Ä®Ä®Ä®Ü      | 120/361 [00:00<00:00, 592.45it/s, now=None]chunk:  52%|®Ä®Ä®Ä®Ä®Ä®á    | 189/361 [00:00<00:00, 631.43it/s, now=None]chunk:  71%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä   | 255/361 [00:00<00:00, 637.30it/s, now=None]chunk:  89%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Å | 322/361 [00:00<00:00, 399.43it/s, now=None]                                                                   MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_4.mp4
+
+t:   0%|          | 0/409 [00:00<?, ?it/s, now=None]t:   0%|          | 2/409 [00:00<00:38, 10.61it/s, now=None]t:   3%|®Ü         | 12/409 [00:00<00:08, 47.64it/s, now=None]t:   5%|®Ñ         | 22/409 [00:00<00:05, 66.21it/s, now=None]t:   8%|®Ç         | 33/409 [00:00<00:04, 80.51it/s, now=None]t:  11%|®Ä         | 44/409 [00:00<00:04, 88.77it/s, now=None]t:  13%|®Ä®Ü        | 55/409 [00:00<00:03, 93.05it/s, now=None]t:  16%|®Ä®Ñ        | 65/409 [00:00<00:03, 92.20it/s, now=None]t:  18%|®Ä®Ç        | 75/409 [00:00<00:03, 91.79it/s, now=None]t:  21%|®Ä®Ä        | 86/409 [00:01<00:03, 94.21it/s, now=None]t:  23%|®Ä®Ä®Ü       | 96/409 [00:01<00:03, 93.86it/s, now=None]t:  26%|®Ä®Ä®Ñ       | 107/409 [00:01<00:03, 96.35it/s, now=None]t:  29%|®Ä®Ä®Ç       | 117/409 [00:01<00:02, 97.38it/s, now=None]t:  31%|®Ä®Ä®Ä       | 127/409 [00:01<00:02, 95.37it/s, now=None]t:  33%|®Ä®Ä®Ä®Ü      | 137/409 [00:01<00:02, 95.55it/s, now=None]t:  36%|®Ä®Ä®Ä®Ñ      | 147/409 [00:01<00:02, 96.67it/s, now=None]t:  39%|®Ä®Ä®Ä®Ç      | 158/409 [00:01<00:02, 98.19it/s, now=None]t:  41%|®Ä®Ä®Ä®Ä      | 168/409 [00:01<00:02, 98.36it/s, now=None]t:  44%|®Ä®Ä®Ä®Ä®Ö     | 179/409 [00:01<00:02, 99.52it/s, now=None]t:  46%|®Ä®Ä®Ä®Ä®Ñ     | 189/409 [00:02<00:02, 97.47it/s, now=None]t:  49%|®Ä®Ä®Ä®Ä®Å     | 200/409 [00:02<00:02, 98.72it/s, now=None]t:  52%|®Ä®Ä®Ä®Ä®Ä®á    | 211/409 [00:02<00:01, 100.98it/s, now=None]t:  54%|®Ä®Ä®Ä®Ä®Ä®Ö    | 222/409 [00:02<00:01, 96.83it/s, now=None] t:  57%|®Ä®Ä®Ä®Ä®Ä®É    | 232/409 [00:02<00:01, 95.00it/s, now=None]t:  59%|®Ä®Ä®Ä®Ä®Ä®Å    | 243/409 [00:02<00:01, 98.04it/s, now=None]t:  62%|®Ä®Ä®Ä®Ä®Ä®Ä®á   | 254/409 [00:02<00:01, 100.56it/s, now=None]t:  65%|®Ä®Ä®Ä®Ä®Ä®Ä®Ö   | 265/409 [00:02<00:01, 100.16it/s, now=None]t:  67%|®Ä®Ä®Ä®Ä®Ä®Ä®É   | 276/409 [00:02<00:01, 100.04it/s, now=None]t:  70%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä   | 287/409 [00:03<00:01, 102.00it/s, now=None]t:  73%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ü  | 298/409 [00:03<00:01, 98.98it/s, now=None] t:  75%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ñ  | 308/409 [00:03<00:01, 94.66it/s, now=None]t:  78%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ç  | 318/409 [00:03<00:00, 96.08it/s, now=None]t:  80%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä  | 328/409 [00:03<00:00, 96.88it/s, now=None]t:  83%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ü | 339/409 [00:03<00:00, 100.28it/s, now=None]t:  86%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ñ | 350/409 [00:03<00:00, 98.00it/s, now=None] 2023-09-07 14:07:55,112 - WARNING - C:\Users\yangxu\miniconda3\envs\img2video\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_input\AI_2023-07-14_Àÿ≤ƒ_4.mp4, 2764800 bytes wanted but 0 bytes read,at frame 336/337, at time 14.00/14.03 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+t:  88%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ç | 360/409 [00:04<00:00, 63.93it/s, now=None]t:  91%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä | 372/409 [00:04<00:00, 74.43it/s, now=None]t:  94%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ü| 383/409 [00:04<00:00, 81.29it/s, now=None]t:  97%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®É| 395/409 [00:04<00:00, 89.92it/s, now=None]t: 100%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Å| 407/409 [00:04<00:00, 96.11it/s, now=None]                                                              Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_4.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_5.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_5TEMP_MPY_wvf_snd.mp3
+chunk:   0%|          | 0/361 [00:00<?, ?it/s, now=None]chunk:   1%|          | 2/361 [00:00<00:20, 17.72it/s, now=None]chunk:  20%|®Ä®Å        | 71/361 [00:00<00:00, 391.80it/s, now=None]chunk:  38%|®Ä®Ä®Ä®Ç      | 138/361 [00:00<00:00, 513.47it/s, now=None]chunk:  57%|®Ä®Ä®Ä®Ä®Ä®É    | 204/361 [00:00<00:00, 549.42it/s, now=None]chunk:  76%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ñ  | 273/361 [00:00<00:00, 596.97it/s, now=None]chunk:  93%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ü| 334/361 [00:00<00:00, 398.58it/s, now=None]                                                                   MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_5.mp4
+
+t:   0%|          | 0/409 [00:00<?, ?it/s, now=None]t:   0%|          | 2/409 [00:00<00:27, 15.02it/s, now=None]t:   4%|®Ü         | 15/409 [00:00<00:05, 72.13it/s, now=None]t:   7%|®É         | 27/409 [00:00<00:04, 88.79it/s, now=None]t:  10%|®Å         | 39/409 [00:00<00:03, 98.74it/s, now=None]t:  12%|®Ä®á        | 50/409 [00:00<00:03, 95.40it/s, now=None]t:  15%|®Ä®Ñ        | 62/409 [00:00<00:03, 101.84it/s, now=None]t:  18%|®Ä®Ç        | 73/409 [00:00<00:03, 101.19it/s, now=None]t:  21%|®Ä®Ä        | 85/409 [00:00<00:03, 104.74it/s, now=None]t:  23%|®Ä®Ä®Ü       | 96/409 [00:01<00:03, 101.48it/s, now=None]t:  26%|®Ä®Ä®Ñ       | 107/409 [00:01<00:02, 103.40it/s, now=None]t:  29%|®Ä®Ä®Å       | 118/409 [00:01<00:02, 102.40it/s, now=None]t:  32%|®Ä®Ä®Ä®á      | 130/409 [00:01<00:02, 104.64it/s, now=None]t:  34%|®Ä®Ä®Ä®Ö      | 141/409 [00:01<00:02, 104.11it/s, now=None]t:  37%|®Ä®Ä®Ä®É      | 152/409 [00:01<00:02, 104.43it/s, now=None]2023-09-07 14:08:13,268 - INFO - ******************************,start,******************************
+2023-09-07 14:08:13,268 - INFO - Œ≤≤ø ”∆µµÿ÷∑£∫C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_final\1.mp4
+2023-09-07 14:08:13,270 - INFO - ##########now:2023-09-07 14:08:13.270302, ”∆µ ˝¡ø:5
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_1TEMP_MPY_wvf_snd.mp3
+chunk:   0%|          | 0/361 [00:00<?, ?it/s, now=None]chunk:   8%|®Ç         | 28/361 [00:00<00:01, 224.37it/s, now=None]chunk:  37%|®Ä®Ä®Ä®É      | 134/361 [00:00<00:00, 669.02it/s, now=None]chunk:  61%|®Ä®Ä®Ä®Ä®Ä®Ä    | 219/361 [00:00<00:00, 743.36it/s, now=None]chunk:  85%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ö | 306/361 [00:00<00:00, 762.62it/s, now=None]                                                                   MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4
+
+t:   0%|          | 0/409 [00:00<?, ?it/s, now=None]t:   1%|          | 3/409 [00:00<00:13, 29.86it/s, now=None]t:   5%|®Ö         | 20/409 [00:00<00:03, 112.06it/s, now=None]t:   9%|®Å         | 37/409 [00:00<00:02, 135.28it/s, now=None]t:  13%|®Ä®Ü        | 54/409 [00:00<00:02, 146.70it/s, now=None]t:  17%|®Ä®É        | 69/409 [00:00<00:02, 137.38it/s, now=None]t:  20%|®Ä®Ä        | 83/409 [00:00<00:02, 124.96it/s, now=None]t:  23%|®Ä®Ä®Ü       | 96/409 [00:00<00:02, 114.92it/s, now=None]t:  26%|®Ä®Ä®É       | 108/409 [00:00<00:02, 115.19it/s, now=None]t:  29%|®Ä®Ä®Å       | 120/409 [00:01<00:02, 106.68it/s, now=None]t:  32%|®Ä®Ä®Ä®á      | 131/409 [00:01<00:03, 82.17it/s, now=None] t:  35%|®Ä®Ä®Ä®Ö      | 142/409 [00:01<00:03, 88.35it/s, now=None]t:  37%|®Ä®Ä®Ä®É      | 152/409 [00:01<00:02, 89.85it/s, now=None]t:  40%|®Ä®Ä®Ä®Å      | 162/409 [00:01<00:02, 92.15it/s, now=None]t:  42%|®Ä®Ä®Ä®Ä®á     | 173/409 [00:01<00:02, 94.20it/s, now=None]t:  45%|®Ä®Ä®Ä®Ä®Ö     | 183/409 [00:01<00:02, 86.18it/s, now=None]t:  47%|®Ä®Ä®Ä®Ä®É     | 194/409 [00:01<00:02, 90.14it/s, now=None]t:  50%|®Ä®Ä®Ä®Ä®Ä     | 206/409 [00:02<00:02, 96.74it/s, now=None]t:  53%|®Ä®Ä®Ä®Ä®Ä®Ü    | 217/409 [00:02<00:01, 98.50it/s, now=None]t:  56%|®Ä®Ä®Ä®Ä®Ä®Ñ    | 230/409 [00:02<00:01, 106.93it/s, now=None]t:  59%|®Ä®Ä®Ä®Ä®Ä®Å    | 242/409 [00:02<00:01, 108.96it/s, now=None]t:  63%|®Ä®Ä®Ä®Ä®Ä®Ä®Ü   | 256/409 [00:02<00:01, 115.15it/s, now=None]t:  66%|®Ä®Ä®Ä®Ä®Ä®Ä®Ñ   | 268/409 [00:02<00:01, 113.33it/s, now=None]t:  68%|®Ä®Ä®Ä®Ä®Ä®Ä®Ç   | 280/409 [00:02<00:01, 109.61it/s, now=None]t:  71%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®á  | 292/409 [00:02<00:01, 109.89it/s, now=None]t:  75%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ö  | 305/409 [00:02<00:00, 113.41it/s, now=None]t:  78%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ç  | 317/409 [00:02<00:00, 112.36it/s, now=None]t:  80%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä  | 329/409 [00:03<00:00, 102.93it/s, now=None]t:  83%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ü | 340/409 [00:03<00:00, 101.65it/s, now=None]t:  86%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ñ | 351/409 [00:03<00:00, 102.50it/s, now=None]2023-09-07 14:08:18,207 - WARNING - C:\Users\yangxu\miniconda3\envs\img2video\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_input\AI_2023-07-14_Àÿ≤ƒ_1.mp4, 2764800 bytes wanted but 0 bytes read,at frame 336/337, at time 14.00/14.03 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+t:  89%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ç | 362/409 [00:03<00:00, 103.54it/s, now=None]t:  92%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®á| 375/409 [00:03<00:00, 109.11it/s, now=None]t:  95%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ñ| 389/409 [00:03<00:00, 116.01it/s, now=None]t:  98%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ç| 402/409 [00:03<00:00, 116.90it/s, now=None]2023-09-07 14:08:18,690 - WARNING - C:\Users\yangxu\miniconda3\envs\img2video\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_final\1.mp4, 2764800 bytes wanted but 0 bytes read,at frame 57/59, at time 2.28/2.33 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+                                                               Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_2TEMP_MPY_wvf_snd.mp3
+chunk:   0%|          | 0/361 [00:00<?, ?it/s, now=None]chunk:   1%|          | 2/361 [00:00<00:38,  9.40it/s, now=None]chunk:  19%|®Ä®Ç        | 67/361 [00:00<00:01, 266.44it/s, now=None]chunk:  42%|®Ä®Ä®Ä®Ä®á     | 153/361 [00:00<00:00, 481.91it/s, now=None]chunk:  65%|®Ä®Ä®Ä®Ä®Ä®Ä®Ö   | 233/361 [00:00<00:00, 590.35it/s, now=None]chunk:  86%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ñ | 311/361 [00:00<00:00, 411.35it/s, now=None]                                                                   MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4
+
+t:   0%|          | 0/409 [00:00<?, ?it/s, now=None]t:   0%|          | 2/409 [00:00<00:23, 17.43it/s, now=None]t:   3%|®Ü         | 14/409 [00:00<00:05, 73.21it/s, now=None]t:   6%|®É         | 26/409 [00:00<00:04, 92.04it/s, now=None]t:   9%|®Å         | 38/409 [00:00<00:03, 99.19it/s, now=None]t:  12%|®Ä®á        | 49/409 [00:00<00:03, 99.05it/s, now=None]t:  15%|®Ä®Ñ        | 62/409 [00:00<00:03, 106.37it/s, now=None]t:  18%|®Ä®Ç        | 73/409 [00:00<00:03, 101.16it/s, now=None]t:  21%|®Ä®Ä        | 84/409 [00:00<00:03, 100.82it/s, now=None]t:  23%|®Ä®Ä®Ü       | 95/409 [00:00<00:03, 98.41it/s, now=None] t:  26%|®Ä®Ä®Ñ       | 106/409 [00:01<00:03, 100.19it/s, now=None]t:  29%|®Ä®Ä®Ç       | 117/409 [00:01<00:02, 99.17it/s, now=None] t:  31%|®Ä®Ä®Ä       | 127/409 [00:01<00:02, 99.04it/s, now=None]t:  34%|®Ä®Ä®Ä®Ü      | 138/409 [00:01<00:02, 102.17it/s, now=None]t:  36%|®Ä®Ä®Ä®É      | 149/409 [00:01<00:02, 100.93it/s, now=None]t:  39%|®Ä®Ä®Ä®Å      | 160/409 [00:01<00:02, 98.94it/s, now=None] t:  42%|®Ä®Ä®Ä®Ä®á     | 170/409 [00:01<00:02, 97.91it/s, now=None]t:  44%|®Ä®Ä®Ä®Ä®Ö     | 181/409 [00:01<00:02, 100.93it/s, now=None]t:  47%|®Ä®Ä®Ä®Ä®É     | 192/409 [00:01<00:02, 100.54it/s, now=None]t:  50%|®Ä®Ä®Ä®Ä®Å     | 203/409 [00:02<00:02, 100.93it/s, now=None]t:  52%|®Ä®Ä®Ä®Ä®Ä®á    | 214/409 [00:02<00:01, 99.07it/s, now=None] t:  55%|®Ä®Ä®Ä®Ä®Ä®Ñ    | 225/409 [00:02<00:01, 100.21it/s, now=None]t:  58%|®Ä®Ä®Ä®Ä®Ä®Ç    | 237/409 [00:02<00:01, 103.93it/s, now=None]t:  61%|®Ä®Ä®Ä®Ä®Ä®Ä    | 248/409 [00:02<00:01, 103.79it/s, now=None]t:  63%|®Ä®Ä®Ä®Ä®Ä®Ä®Ü   | 259/409 [00:02<00:01, 103.20it/s, now=None]t:  66%|®Ä®Ä®Ä®Ä®Ä®Ä®Ñ   | 270/409 [00:02<00:01, 97.27it/s, now=None] t:  68%|®Ä®Ä®Ä®Ä®Ä®Ä®Ç   | 280/409 [00:02<00:01, 97.47it/s, now=None]t:  71%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä   | 290/409 [00:02<00:01, 94.32it/s, now=None]2023-09-07 14:12:01,493 - INFO - ******************************,start,******************************
+2023-09-07 14:12:01,493 - INFO - Œ≤≤ø ”∆µµÿ÷∑£∫C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_final\1.mp4
+2023-09-07 14:12:01,493 - INFO - ##########now:2023-09-07 14:12:01.493990, ”∆µ ˝¡ø:5
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_1TEMP_MPY_wvf_snd.mp3
+chunk:   0%|          | 0/361 [00:00<?, ?it/s, now=None]chunk:   1%|          | 2/361 [00:00<00:25, 13.90it/s, now=None]chunk:  24%|®Ä®Ä®Ö       | 87/361 [00:00<00:00, 429.02it/s, now=None]chunk:  52%|®Ä®Ä®Ä®Ä®Ä®á    | 186/361 [00:00<00:00, 660.85it/s, now=None]chunk:  78%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ç  | 281/361 [00:00<00:00, 768.33it/s, now=None]                                                                   MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4
+
+t:   0%|          | 0/409 [00:00<?, ?it/s, now=None]t:   0%|          | 2/409 [00:00<00:37, 10.99it/s, now=None]t:   4%|®Ö         | 18/409 [00:00<00:05, 76.06it/s, now=None]t:   9%|®Ç         | 35/409 [00:00<00:03, 110.60it/s, now=None]t:  13%|®Ä®Ü        | 52/409 [00:00<00:02, 129.05it/s, now=None]t:  16%|®Ä®É        | 67/409 [00:00<00:02, 124.71it/s, now=None]t:  20%|®Ä®Å        | 81/409 [00:00<00:02, 120.08it/s, now=None]t:  23%|®Ä®Ä®Ü       | 94/409 [00:00<00:02, 113.81it/s, now=None]t:  26%|®Ä®Ä®Ñ       | 106/409 [00:00<00:02, 113.10it/s, now=None]t:  29%|®Ä®Ä®Å       | 118/409 [00:01<00:02, 112.39it/s, now=None]t:  32%|®Ä®Ä®Ä®á      | 130/409 [00:01<00:03, 91.87it/s, now=None] t:  34%|®Ä®Ä®Ä®Ö      | 140/409 [00:01<00:02, 93.45it/s, now=None]t:  37%|®Ä®Ä®Ä®É      | 151/409 [00:01<00:02, 96.16it/s, now=None]t:  40%|®Ä®Ä®Ä®Å      | 162/409 [00:01<00:02, 99.36it/s, now=None]t:  42%|®Ä®Ä®Ä®Ä®á     | 173/409 [00:01<00:02, 98.84it/s, now=None]t:  45%|®Ä®Ä®Ä®Ä®Ö     | 184/409 [00:01<00:02, 86.95it/s, now=None]t:  47%|®Ä®Ä®Ä®Ä®É     | 194/409 [00:01<00:02, 87.33it/s, now=None]t:  50%|®Ä®Ä®Ä®Ä®Ä     | 205/409 [00:02<00:02, 91.05it/s, now=None]t:  53%|®Ä®Ä®Ä®Ä®Ä®Ü    | 215/409 [00:02<00:02, 92.39it/s, now=None]t:  56%|®Ä®Ä®Ä®Ä®Ä®Ñ    | 227/409 [00:02<00:01, 97.71it/s, now=None]t:  58%|®Ä®Ä®Ä®Ä®Ä®Ç    | 239/409 [00:02<00:01, 103.33it/s, now=None]t:  62%|®Ä®Ä®Ä®Ä®Ä®Ä®á   | 252/409 [00:02<00:01, 109.66it/s, now=None]t:  65%|®Ä®Ä®Ä®Ä®Ä®Ä®Ö   | 264/409 [00:02<00:01, 112.57it/s, now=None]t:  67%|®Ä®Ä®Ä®Ä®Ä®Ä®É   | 276/409 [00:02<00:01, 110.49it/s, now=None]t:  70%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä   | 288/409 [00:02<00:01, 106.22it/s, now=None]t:  73%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ü  | 299/409 [00:02<00:01, 103.80it/s, now=None]t:  76%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ñ  | 311/409 [00:03<00:00, 107.18it/s, now=None]t:  79%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ç  | 322/409 [00:03<00:00, 106.02it/s, now=None]t:  81%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®á | 333/409 [00:03<00:00, 101.14it/s, now=None]t:  84%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ö | 344/409 [00:03<00:00, 99.06it/s, now=None] 2023-09-07 14:12:06,944 - WARNING - C:\Users\yangxu\miniconda3\envs\img2video\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_input\AI_2023-07-14_Àÿ≤ƒ_1.mp4, 2764800 bytes wanted but 0 bytes read,at frame 336/337, at time 14.00/14.03 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+t:  87%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®É | 354/409 [00:03<00:00, 95.88it/s, now=None]t:  89%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Å | 364/409 [00:03<00:00, 95.73it/s, now=None]t:  91%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®á| 374/409 [00:03<00:00, 96.74it/s, now=None]t:  94%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ö| 385/409 [00:03<00:00, 100.01it/s, now=None]t:  97%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®É| 396/409 [00:03<00:00, 102.86it/s, now=None]t: 100%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Å| 407/409 [00:04<00:00, 102.91it/s, now=None]2023-09-07 14:12:07,518 - WARNING - C:\Users\yangxu\miniconda3\envs\img2video\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_final\1.mp4, 2764800 bytes wanted but 0 bytes read,at frame 57/59, at time 2.28/2.33 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+                                                               Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_1.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_2TEMP_MPY_wvf_snd.mp3
+chunk:   0%|          | 0/361 [00:00<?, ?it/s, now=None]chunk:   1%|          | 2/361 [00:00<00:24, 14.50it/s, now=None]chunk:  12%|®Ä®á        | 45/361 [00:00<00:01, 225.62it/s, now=None]chunk:  28%|®Ä®Ä®Ç       | 102/361 [00:00<00:00, 365.76it/s, now=None]chunk:  43%|®Ä®Ä®Ä®Ä®Ü     | 154/361 [00:00<00:00, 420.57it/s, now=None]chunk:  57%|®Ä®Ä®Ä®Ä®Ä®É    | 204/361 [00:00<00:00, 424.23it/s, now=None]chunk:  76%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®É  | 276/361 [00:00<00:00, 517.36it/s, now=None]chunk:  91%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®á| 330/361 [00:00<00:00, 319.20it/s, now=None]                                                                   MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4
+
+t:   0%|          | 0/409 [00:00<?, ?it/s, now=None]t:   0%|          | 2/409 [00:00<00:36, 11.09it/s, now=None]t:   3%|®Ü         | 14/409 [00:00<00:06, 58.30it/s, now=None]t:   6%|®Ñ         | 25/409 [00:00<00:04, 77.24it/s, now=None]t:   9%|®Å         | 36/409 [00:00<00:04, 87.92it/s, now=None]t:  11%|®Ä         | 46/409 [00:00<00:03, 91.58it/s, now=None]t:  14%|®Ä®Ü        | 56/409 [00:00<00:03, 90.77it/s, now=None]t:  16%|®Ä®Ñ        | 66/409 [00:00<00:03, 86.01it/s, now=None]t:  18%|®Ä®Ç        | 75/409 [00:00<00:03, 85.17it/s, now=None]t:  21%|®Ä®Ä        | 84/409 [00:01<00:03, 85.92it/s, now=None]t:  23%|®Ä®Ä®Ü       | 93/409 [00:01<00:03, 85.44it/s, now=None]t:  25%|®Ä®Ä®Ö       | 102/409 [00:01<00:03, 85.81it/s, now=None]t:  27%|®Ä®Ä®É       | 111/409 [00:01<00:03, 86.34it/s, now=None]t:  29%|®Ä®Ä®Å       | 120/409 [00:01<00:03, 85.24it/s, now=None]t:  32%|®Ä®Ä®Ä®á      | 130/409 [00:01<00:03, 87.49it/s, now=None]t:  34%|®Ä®Ä®Ä®Ö      | 140/409 [00:01<00:02, 89.78it/s, now=None]t:  36%|®Ä®Ä®Ä®É      | 149/409 [00:01<00:02, 88.23it/s, now=None]t:  39%|®Ä®Ä®Ä®Ç      | 158/409 [00:01<00:02, 87.28it/s, now=None]t:  41%|®Ä®Ä®Ä®Ä      | 168/409 [00:02<00:02, 88.00it/s, now=None]t:  43%|®Ä®Ä®Ä®Ä®Ü     | 177/409 [00:02<00:02, 86.79it/s, now=None]t:  46%|®Ä®Ä®Ä®Ä®Ñ     | 188/409 [00:02<00:02, 92.40it/s, now=None]t:  49%|®Ä®Ä®Ä®Ä®Ç     | 199/409 [00:02<00:02, 95.31it/s, now=None]t:  51%|®Ä®Ä®Ä®Ä®Ä®á    | 210/409 [00:02<00:02, 97.97it/s, now=None]t:  54%|®Ä®Ä®Ä®Ä®Ä®Ö    | 220/409 [00:02<00:01, 97.89it/s, now=None]t:  56%|®Ä®Ä®Ä®Ä®Ä®É    | 231/409 [00:02<00:01, 100.08it/s, now=None]t:  59%|®Ä®Ä®Ä®Ä®Ä®Å    | 242/409 [00:02<00:01, 102.50it/s, now=None]t:  62%|®Ä®Ä®Ä®Ä®Ä®Ä®á   | 254/409 [00:02<00:01, 105.21it/s, now=None]t:  65%|®Ä®Ä®Ä®Ä®Ä®Ä®Ö   | 265/409 [00:02<00:01, 103.89it/s, now=None]t:  67%|®Ä®Ä®Ä®Ä®Ä®Ä®É   | 276/409 [00:03<00:01, 103.14it/s, now=None]t:  70%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä   | 288/409 [00:03<00:01, 106.04it/s, now=None]t:  73%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ü  | 299/409 [00:03<00:01, 104.12it/s, now=None]t:  76%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ñ  | 311/409 [00:03<00:00, 106.23it/s, now=None]t:  79%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ç  | 322/409 [00:03<00:00, 103.48it/s, now=None]t:  81%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®á | 333/409 [00:03<00:00, 102.76it/s, now=None]t:  84%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ö | 344/409 [00:03<00:00, 103.68it/s, now=None]2023-09-07 14:12:13,381 - WARNING - C:\Users\yangxu\miniconda3\envs\img2video\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_input\AI_2023-07-14_Àÿ≤ƒ_2.mp4, 2764800 bytes wanted but 0 bytes read,at frame 336/337, at time 14.00/14.03 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+t:  87%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®É | 355/409 [00:03<00:00, 69.17it/s, now=None] t:  89%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Å | 364/409 [00:04<00:00, 72.19it/s, now=None]t:  91%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®á| 374/409 [00:04<00:00, 77.32it/s, now=None]t:  94%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ö| 385/409 [00:04<00:00, 84.84it/s, now=None]t:  97%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®É| 395/409 [00:04<00:00, 87.04it/s, now=None]t:  99%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Å| 405/409 [00:04<00:00, 88.38it/s, now=None]                                                              Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_2.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_3.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_3TEMP_MPY_wvf_snd.mp3
+chunk:   0%|          | 0/361 [00:00<?, ?it/s, now=None]chunk:   1%|          | 2/361 [00:00<00:19, 18.26it/s, now=None]chunk:  17%|®Ä®É        | 62/361 [00:00<00:00, 345.88it/s, now=None]chunk:  37%|®Ä®Ä®Ä®É      | 135/361 [00:00<00:00, 516.67it/s, now=None]chunk:  55%|®Ä®Ä®Ä®Ä®Ä®Ö    | 197/361 [00:00<00:00, 554.87it/s, now=None]chunk:  70%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä   | 254/361 [00:00<00:00, 493.03it/s, now=None]chunk:  84%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ö | 305/361 [00:00<00:00, 483.80it/s, now=None]chunk:  98%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ç| 355/361 [00:00<00:00, 296.63it/s, now=None]                                                                   MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_3.mp4
+
+t:   0%|          | 0/409 [00:00<?, ?it/s, now=None]t:   0%|          | 2/409 [00:00<00:20, 19.67it/s, now=None]t:   4%|®Ü         | 15/409 [00:00<00:04, 81.10it/s, now=None]t:   7%|®É         | 28/409 [00:00<00:03, 101.58it/s, now=None]t:  10%|®Å         | 39/409 [00:00<00:03, 102.97it/s, now=None]t:  12%|®Ä®á        | 50/409 [00:00<00:03, 102.05it/s, now=None]t:  15%|®Ä®Ö        | 61/409 [00:00<00:03, 100.95it/s, now=None]t:  18%|®Ä®Ç        | 72/409 [00:00<00:03, 98.33it/s, now=None] t:  20%|®Ä®Ä        | 83/409 [00:00<00:03, 100.15it/s, now=None]t:  23%|®Ä®Ä®Ü       | 94/409 [00:00<00:03, 100.13it/s, now=None]t:  26%|®Ä®Ä®Ñ       | 105/409 [00:01<00:03, 100.07it/s, now=None]t:  28%|®Ä®Ä®Ç       | 116/409 [00:01<00:02, 98.31it/s, now=None] t:  31%|®Ä®Ä®Ä       | 126/409 [00:01<00:02, 96.05it/s, now=None]t:  33%|®Ä®Ä®Ä®Ü      | 137/409 [00:01<00:02, 97.70it/s, now=None]t:  36%|®Ä®Ä®Ä®Ñ      | 148/409 [00:01<00:02, 100.10it/s, now=None]t:  39%|®Ä®Ä®Ä®Å      | 159/409 [00:01<00:02, 99.24it/s, now=None] t:  41%|®Ä®Ä®Ä®Ä®á     | 169/409 [00:01<00:02, 96.65it/s, now=None]t:  44%|®Ä®Ä®Ä®Ä®Ö     | 180/409 [00:01<00:02, 97.88it/s, now=None]t:  47%|®Ä®Ä®Ä®Ä®É     | 191/409 [00:01<00:02, 100.29it/s, now=None]t:  50%|®Ä®Ä®Ä®Ä®Å     | 203/409 [00:02<00:01, 105.85it/s, now=None]t:  53%|®Ä®Ä®Ä®Ä®Ä®Ü    | 215/409 [00:02<00:01, 107.70it/s, now=None]t:  55%|®Ä®Ä®Ä®Ä®Ä®Ñ    | 226/409 [00:02<00:01, 107.54it/s, now=None]t:  58%|®Ä®Ä®Ä®Ä®Ä®Ç    | 238/409 [00:02<00:01, 108.58it/s, now=None]t:  61%|®Ä®Ä®Ä®Ä®Ä®Ä    | 250/409 [00:02<00:01, 109.17it/s, now=None]t:  64%|®Ä®Ä®Ä®Ä®Ä®Ä®Ö   | 261/409 [00:02<00:01, 108.67it/s, now=None]t:  67%|®Ä®Ä®Ä®Ä®Ä®Ä®É   | 272/409 [00:02<00:01, 107.49it/s, now=None]t:  69%|®Ä®Ä®Ä®Ä®Ä®Ä®Å   | 284/409 [00:02<00:01, 109.11it/s, now=None]t:  72%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®á  | 295/409 [00:02<00:01, 108.72it/s, now=None]t:  75%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ö  | 306/409 [00:02<00:00, 108.48it/s, now=None]t:  78%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ç  | 317/409 [00:03<00:00, 107.53it/s, now=None]t:  80%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä  | 328/409 [00:03<00:00, 106.90it/s, now=None]t:  83%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ü | 339/409 [00:03<00:00, 107.66it/s, now=None]t:  86%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ñ | 350/409 [00:03<00:00, 104.77it/s, now=None]2023-09-07 14:12:19,590 - WARNING - C:\Users\yangxu\miniconda3\envs\img2video\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_input\AI_2023-07-14_Àÿ≤ƒ_3.mp4, 2764800 bytes wanted but 0 bytes read,at frame 336/337, at time 14.00/14.03 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+t:  88%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ç | 361/409 [00:03<00:00, 61.01it/s, now=None] t:  91%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä | 372/409 [00:03<00:00, 69.38it/s, now=None]t:  94%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ö| 384/409 [00:03<00:00, 79.76it/s, now=None]t:  97%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®É| 397/409 [00:04<00:00, 90.16it/s, now=None]t: 100%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä| 409/409 [00:04<00:00, 95.40it/s, now=None]                                                              Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_3.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_4.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_4TEMP_MPY_wvf_snd.mp3
+chunk:   0%|          | 0/361 [00:00<?, ?it/s, now=None]chunk:   1%|          | 3/361 [00:00<00:12, 29.83it/s, now=None]chunk:  23%|®Ä®Ä®Ü       | 82/361 [00:00<00:00, 474.32it/s, now=None]chunk:  43%|®Ä®Ä®Ä®Ä®Ü     | 157/361 [00:00<00:00, 599.64it/s, now=None]chunk:  65%|®Ä®Ä®Ä®Ä®Ä®Ä®Ö   | 233/361 [00:00<00:00, 550.03it/s, now=None]chunk:  80%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä  | 290/361 [00:00<00:00, 414.53it/s, now=None]chunk:  93%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ü| 336/361 [00:00<00:00, 325.95it/s, now=None]                                                                   MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_4.mp4
+
+t:   0%|          | 0/409 [00:00<?, ?it/s, now=None]t:   0%|          | 2/409 [00:00<00:21, 18.72it/s, now=None]t:   4%|®Ü         | 15/409 [00:00<00:04, 80.81it/s, now=None]t:   6%|®É         | 26/409 [00:00<00:04, 89.47it/s, now=None]t:  10%|®Å         | 39/409 [00:00<00:03, 102.97it/s, now=None]t:  12%|®Ä®á        | 51/409 [00:00<00:03, 106.56it/s, now=None]t:  15%|®Ä®Ñ        | 63/409 [00:00<00:03, 108.41it/s, now=None]t:  18%|®Ä®Ç        | 74/409 [00:00<00:03, 104.21it/s, now=None]t:  21%|®Ä®Ä        | 86/409 [00:00<00:03, 105.82it/s, now=None]t:  24%|®Ä®Ä®Ü       | 97/409 [00:00<00:02, 106.51it/s, now=None]t:  27%|®Ä®Ä®É       | 109/409 [00:01<00:02, 109.67it/s, now=None]t:  29%|®Ä®Ä®Å       | 120/409 [00:01<00:02, 106.90it/s, now=None]t:  32%|®Ä®Ä®Ä®á      | 131/409 [00:01<00:02, 106.84it/s, now=None]t:  35%|®Ä®Ä®Ä®Ö      | 142/409 [00:01<00:02, 104.26it/s, now=None]t:  38%|®Ä®Ä®Ä®Ç      | 155/409 [00:01<00:02, 108.81it/s, now=None]t:  41%|®Ä®Ä®Ä®Ä      | 166/409 [00:01<00:02, 106.58it/s, now=None]t:  43%|®Ä®Ä®Ä®Ä®Ü     | 177/409 [00:01<00:02, 103.20it/s, now=None]t:  46%|®Ä®Ä®Ä®Ä®Ñ     | 188/409 [00:01<00:02, 101.34it/s, now=None]t:  49%|®Ä®Ä®Ä®Ä®Ç     | 199/409 [00:01<00:02, 100.32it/s, now=None]t:  52%|®Ä®Ä®Ä®Ä®Ä®á    | 211/409 [00:02<00:01, 105.26it/s, now=None]t:  54%|®Ä®Ä®Ä®Ä®Ä®Ö    | 222/409 [00:02<00:01, 103.58it/s, now=None]t:  57%|®Ä®Ä®Ä®Ä®Ä®É    | 233/409 [00:02<00:01, 103.47it/s, now=None]t:  60%|®Ä®Ä®Ä®Ä®Ä®Å    | 244/409 [00:02<00:01, 100.90it/s, now=None]t:  63%|®Ä®Ä®Ä®Ä®Ä®Ä®Ü   | 256/409 [00:02<00:01, 105.09it/s, now=None]t:  65%|®Ä®Ä®Ä®Ä®Ä®Ä®Ñ   | 267/409 [00:02<00:01, 103.87it/s, now=None]t:  68%|®Ä®Ä®Ä®Ä®Ä®Ä®Ç   | 278/409 [00:02<00:01, 102.91it/s, now=None]t:  71%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä   | 289/409 [00:02<00:01, 102.25it/s, now=None]t:  73%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ü  | 300/409 [00:02<00:01, 101.61it/s, now=None]t:  76%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ñ  | 311/409 [00:03<00:00, 99.77it/s, now=None] t:  78%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ç  | 321/409 [00:03<00:00, 95.30it/s, now=None]t:  81%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®á | 333/409 [00:03<00:00, 101.02it/s, now=None]t:  84%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ö | 345/409 [00:03<00:00, 104.93it/s, now=None]2023-09-07 14:12:25,644 - WARNING - C:\Users\yangxu\miniconda3\envs\img2video\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_input\AI_2023-07-14_Àÿ≤ƒ_4.mp4, 2764800 bytes wanted but 0 bytes read,at frame 336/337, at time 14.00/14.03 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+t:  87%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®É | 356/409 [00:03<00:00, 71.77it/s, now=None] t:  90%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Å | 367/409 [00:03<00:00, 78.77it/s, now=None]t:  92%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®á| 377/409 [00:03<00:00, 82.48it/s, now=None]t:  95%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ö| 387/409 [00:03<00:00, 86.05it/s, now=None]t:  98%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ç| 399/409 [00:04<00:00, 93.43it/s, now=None]                                                              Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_4.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_5.mp4.
+MoviePy - Writing audio in AI_2023-07-14_Á¥†Êùê_5TEMP_MPY_wvf_snd.mp3
+chunk:   0%|          | 0/361 [00:00<?, ?it/s, now=None]chunk:   1%|          | 2/361 [00:00<00:20, 17.60it/s, now=None]chunk:  20%|®Ä®Å        | 71/361 [00:00<00:00, 389.35it/s, now=None]chunk:  39%|®Ä®Ä®Ä®Å      | 140/361 [00:00<00:00, 520.69it/s, now=None]chunk:  57%|®Ä®Ä®Ä®Ä®Ä®É    | 204/361 [00:00<00:00, 543.08it/s, now=None]chunk:  78%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ç  | 280/361 [00:00<00:00, 616.86it/s, now=None]chunk:  95%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ñ| 343/361 [00:00<00:00, 315.72it/s, now=None]                                                                   MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_5.mp4
+
+t:   0%|          | 0/409 [00:00<?, ?it/s, now=None]t:   1%|          | 3/409 [00:00<00:13, 29.37it/s, now=None]t:   4%|®Ü         | 15/409 [00:00<00:04, 81.16it/s, now=None]t:   7%|®É         | 27/409 [00:00<00:03, 97.91it/s, now=None]t:   9%|®Å         | 38/409 [00:00<00:03, 100.11it/s, now=None]t:  12%|®Ä®á        | 50/409 [00:00<00:03, 105.71it/s, now=None]t:  15%|®Ä®Ö        | 61/409 [00:00<00:03, 105.90it/s, now=None]t:  18%|®Ä®Ç        | 72/409 [00:00<00:03, 104.51it/s, now=None]t:  20%|®Ä®Ä        | 83/409 [00:00<00:03, 105.73it/s, now=None]t:  23%|®Ä®Ä®Ü       | 94/409 [00:00<00:02, 106.86it/s, now=None]t:  26%|®Ä®Ä®Ñ       | 107/409 [00:01<00:02, 111.21it/s, now=None]t:  29%|®Ä®Ä®Å       | 119/409 [00:01<00:02, 109.04it/s, now=None]t:  32%|®Ä®Ä®Ä®á      | 130/409 [00:01<00:02, 109.11it/s, now=None]t:  34%|®Ä®Ä®Ä®Ö      | 141/409 [00:01<00:02, 106.34it/s, now=None]t:  37%|®Ä®Ä®Ä®É      | 152/409 [00:01<00:02, 106.92it/s, now=None]t:  40%|®Ä®Ä®Ä®Ä      | 164/409 [00:01<00:02, 109.57it/s, now=None]t:  43%|®Ä®Ä®Ä®Ä®Ü     | 175/409 [00:01<00:02, 106.14it/s, now=None]t:  45%|®Ä®Ä®Ä®Ä®Ñ     | 186/409 [00:01<00:02, 104.30it/s, now=None]t:  48%|®Ä®Ä®Ä®Ä®Ç     | 197/409 [00:01<00:02, 102.98it/s, now=None]t:  51%|®Ä®Ä®Ä®Ä®Ä     | 209/409 [00:02<00:01, 106.07it/s, now=None]t:  54%|®Ä®Ä®Ä®Ä®Ä®Ö    | 220/409 [00:02<00:01, 105.06it/s, now=None]t:  56%|®Ä®Ä®Ä®Ä®Ä®É    | 231/409 [00:02<00:01, 100.74it/s, now=None]t:  59%|®Ä®Ä®Ä®Ä®Ä®Å    | 242/409 [00:02<00:01, 95.50it/s, now=None] t:  62%|®Ä®Ä®Ä®Ä®Ä®Ä®á   | 252/409 [00:02<00:01, 96.10it/s, now=None]t:  64%|®Ä®Ä®Ä®Ä®Ä®Ä®Ö   | 263/409 [00:02<00:01, 98.70it/s, now=None]t:  67%|®Ä®Ä®Ä®Ä®Ä®Ä®É   | 274/409 [00:02<00:01, 101.48it/s, now=None]t:  70%|®Ä®Ä®Ä®Ä®Ä®Ä®Å   | 285/409 [00:02<00:01, 103.86it/s, now=None]t:  73%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ü  | 297/409 [00:02<00:01, 106.62it/s, now=None]t:  76%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ñ  | 309/409 [00:02<00:00, 108.74it/s, now=None]t:  78%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ç  | 321/409 [00:03<00:00, 111.35it/s, now=None]t:  81%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®á | 333/409 [00:03<00:00, 109.45it/s, now=None]t:  84%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ö | 344/409 [00:03<00:00, 107.75it/s, now=None]2023-09-07 14:12:31,646 - WARNING - C:\Users\yangxu\miniconda3\envs\img2video\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_input\AI_2023-07-14_Àÿ≤ƒ_5.mp4, 2764800 bytes wanted but 0 bytes read,at frame 336/337, at time 14.00/14.03 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+t:  87%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®É | 355/409 [00:03<00:00, 72.21it/s, now=None] t:  89%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Å | 364/409 [00:03<00:00, 75.57it/s, now=None]t:  91%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®á| 374/409 [00:03<00:00, 80.04it/s, now=None]t:  94%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ö| 384/409 [00:03<00:00, 84.72it/s, now=None]t:  96%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®É| 394/409 [00:03<00:00, 88.67it/s, now=None]t:  99%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Å| 404/409 [00:04<00:00, 91.73it/s, now=None]                                                              2023-09-07 14:12:32,686 - INFO - ########################################now:2023-09-07 14:12:32.686064,end########################################
+2023-09-07 14:12:32,687 - INFO - ########################################duration:0:00:31.193064,end########################################
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_Á¥†Êùê_5.mp4
