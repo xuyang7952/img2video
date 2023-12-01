@@ -58,7 +58,7 @@ if __name__ == '__main__':
     # 接受video tag参数,    # 传入参数为空时
     if len(sys.argv) > 1:
         video_tag = sys.argv[1]
-        head_tail_tag = sys.argv[1]
+        head_tail_tag = sys.argv[2]
 
     # 指定的2秒尾部视频路径
     intro_video_path = os.path.join(VIDEO_FINAL, video_tag+'.mp4')

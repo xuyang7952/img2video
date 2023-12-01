@@ -657,3 +657,181 @@ Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2vi
 2023-09-07 14:12:32,687 - INFO - ########################################duration:0:00:31.193064,end########################################
 Moviepy - Done !
 Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-07-14_素材_5.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\6.mp4.
+MoviePy - Writing audio in 6TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\6.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\6.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_1.mp4.
+MoviePy - Writing audio in AI_2023-12-01_素材_1TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_1.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_2.mp4.
+MoviePy - Writing audio in AI_2023-12-01_素材_2TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_2.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_2.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\6.mp4.
+MoviePy - Writing audio in 6TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\6.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\6.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_1.mp4.
+MoviePy - Writing audio in AI_2023-12-01_素材_1TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_1.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_2.mp4.
+MoviePy - Writing audio in AI_2023-12-01_素材_2TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_2.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_2.mp4
+##########now:2023-12-01 16:00:12.969160,video_name:2023-12-01_啊啊啊_3.mp4
+Moviepy - Building video c:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video\AI_2023-12-01_啊啊啊_3.mp4.
+MoviePy - Writing audio in AI_2023-12-01_啊啊啊_3TEMP_MPY_wvf_snd.mp3
+##########now:2023-12-01 16:00:12.969160,video_name:2023-12-01_啊啊啊_2.mp4
+Moviepy - Building video c:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video\AI_2023-12-01_啊啊啊_2.mp4.
+MoviePy - Writing audio in AI_2023-12-01_啊啊啊_2TEMP_MPY_wvf_snd.mp3
+##########now:2023-12-01 16:00:12.967691,video_name:2023-12-01_啊啊啊_1.mp4
+Moviepy - Building video c:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video\AI_2023-12-01_啊啊啊_1.mp4.
+MoviePy - Writing audio in AI_2023-12-01_啊啊啊_1TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video c:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video\AI_2023-12-01_啊啊啊_3.mp4
+
+MoviePy - Done.
+Moviepy - Writing video c:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video\AI_2023-12-01_啊啊啊_2.mp4
+
+MoviePy - Done.
+Moviepy - Writing video c:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video\AI_2023-12-01_啊啊啊_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready c:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video\AI_2023-12-01_啊啊啊_2.mp4
+c:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video\AI_2023-12-01_啊啊啊_2.mp4
+Moviepy - Done !
+Moviepy - video ready c:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video\AI_2023-12-01_啊啊啊_1.mp4
+c:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video\AI_2023-12-01_啊啊啊_1.mp4
+Moviepy - Done !
+Moviepy - video ready c:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video\AI_2023-12-01_啊啊啊_3.mp4
+c:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video\AI_2023-12-01_啊啊啊_3.mp4
+########################################now:2023-12-01 16:00:12.318624,start########################################
+##########now:2023-12-01 16:00:12.318624,视频数量:3
+########################################now:2023-12-01 16:00:19.610605,end########################################
+########################################duration:0:00:07.291981,end########################################
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\6.mp4.
+MoviePy - Writing audio in 6TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\6.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\6.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_1.mp4.
+MoviePy - Writing audio in AI_2023-12-01_素材_1TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_1.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_2.mp4.
+MoviePy - Writing audio in AI_2023-12-01_素材_2TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_2.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_2.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\6.mp4.
+MoviePy - Writing audio in 6TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\6.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\6.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_1.mp4.
+MoviePy - Writing audio in AI_2023-12-01_素材_1TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_1.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_2.mp4.
+MoviePy - Writing audio in AI_2023-12-01_素材_2TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_2.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_2.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\6.mp4.
+MoviePy - Writing audio in 6TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\6.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\6.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_1.mp4.
+MoviePy - Writing audio in AI_2023-12-01_素材_1TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_1.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_2.mp4.
+MoviePy - Writing audio in AI_2023-12-01_素材_2TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_2.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_2.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\6.mp4.
+MoviePy - Writing audio in 6TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\6.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\6.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_1.mp4.
+MoviePy - Writing audio in AI_2023-12-01_素材_1TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_1.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_2.mp4.
+MoviePy - Writing audio in AI_2023-12-01_素材_2TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_2.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_2.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\6.mp4.
+MoviePy - Writing audio in 6TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\6.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\6.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_1.mp4.
+MoviePy - Writing audio in AI_2023-12-01_素材_1TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_1.mp4
+Moviepy - Building video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_2.mp4.
+MoviePy - Writing audio in AI_2023-12-01_素材_2TEMP_MPY_wvf_snd.mp3
+MoviePy - Done.
+Moviepy - Writing video C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_2.mp4
+
+Moviepy - Done !
+Moviepy - video ready C:\Users\yangxu\Documents\xuyang\CODE\CODE_PYTHON\img2video\video_output\AI_2023-12-01_素材_2.mp4
